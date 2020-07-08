@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-06-15T22:18:49Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SPIDriverSRAM_v1"
+        },
+        "Owner": "David Shadoff <david.shadoff@gmail.com>",
+        "Size": {
+            "X": 48.26,
+            "Y": 26.67
+        }
+    }
+}
