@@ -9,10 +9,16 @@ I've been using it to read/write to various types of SPI memory chips; the hooku
 provided with the unit are certainly multipupose, but they aren't optimized for connection
 the SPIDriver to the SOIC in-circuit chip clip.
 
-![Loose Wires](images/wires.jpg)
+Before:
+![Loose Wires](images/before.jpg)
+
+After:
+![Connector Board](images/after.jpg)
+
 
 Assembly is simple:
 1. First attach the two Harwin M20-7910642R header sockets on the SPIDriver's headers.
+(Link to part: https://www.mouser.ca/ProductDetail/Harwin/M20-7910642R?qs=%2Fha2pyFaduh6CW27Bf4Ji3liOHxzgSHZx%252BrczPoIZ0OamkTSPd60Zw%3D%3D )
 
 2. Position the PC board right up agains the SPIDriver board, and attach clips to hold
 it in place while soldering takes place.
@@ -22,7 +28,7 @@ it in place while soldering takes place.
 
 3. Add the 2-row headers and solder them in place.
 
-![Completed Board](images/completed.jpg)
+![Completed Board](images/solder-complete.jpg)
 
 
 I designed the board using the free version of EAGLE (2-layer, less than 100mm on both
